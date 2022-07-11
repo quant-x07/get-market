@@ -11,7 +11,7 @@ pip3 install requests
 
 * 运行
 ```
-cd get-xrxd-py
+cd get-market-py
 python3 main.py
 ```
 
